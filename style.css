@@ -2,5 +2,8 @@ h1{
     color: white;
 }
 body{
-    background-image: url(wp2043130.webp);
+    background-image: url(wp2043130.webp );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
